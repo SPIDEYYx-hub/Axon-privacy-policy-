@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Axon Privacy Policy</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      max-width: 800px;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      color: #2c3e50;
+    }
+  </style>
+</head>
+<body>
+  <h1>Axon Privacy Policy</h1>
+
+  <h2>1. Information Collection and Use</h2>
+  <p>Axon does not collect any personal information. As an AI-based Chrome extension designed to provide intelligent conversation and assistance, Prismo may process the following data:</p>
+  <ul>
+    <li>User queries and conversation history (stored locally)</li>
+    <li>Current webpage content (only for providing context-relevant assistance)</li>
+    <li>User preferences (stored locally)</li>
+  </ul>
+  <p>We use this information solely to improve user experience and provide personalized AI assistance.</p>
+
+  <h2>2. Data Storage</h2>
+  <p>All user data is stored exclusively on the user's local device. We do not store any information, personal or otherwise, on our servers.</p>
+
+  <h2>3. Data Transmission</h2>
+  <p>To provide AI assistance, we need to send user queries to your selected AI service providers (such as OpenAI, Anthropic). These queries do not contain any personal identifying information.</p>
+
+  <h2>4. Third-Party Services</h2>
+  <p>We use third-party AI services to process user queries. These services have their own privacy policies, and we encourage users to review these policies to understand how they handle data.</p>
+
+  <h2>5. Data Security</h2>
+  <p>We implement appropriate security measures to protect user data from unauthorized access, alteration, disclosure,
